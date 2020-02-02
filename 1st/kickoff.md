@@ -6,4 +6,5 @@
 - [ツール類の説明](https://github.com/kiitok-bootcamp/document/blob/master/tools.md)
 - [スケジュールの確認](https://github.com/kiitok-bootcamp/document/blob/master/1st/schedule.md)
 - [設計フェーズでやることのおさらい](https://github.com/kiitok-bootcamp/document/blob/master/theme.md#%E8%A8%AD%E8%A8%88%E9%96%8B%E7%99%BAkickoff)
+- 作ろうと思っているものの宣言
 - 事務連絡
