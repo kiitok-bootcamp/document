@@ -40,6 +40,8 @@
     - 例
         - https://github.com/jumtech/nandemo-tutorial/issues/1
 - DBのスキーマをissue上で設計
+    - 例
+        - https://github.com/jumtech/nandemo-tutorial/issues/2
 - 最終デモまでに作る最低限の機能を取捨選択する
     - まず多めに出して、後から削る
 - 6割くらいできたら、SlackでissueのURLをメンターに投げてレビューを依頼
