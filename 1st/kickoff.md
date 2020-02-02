@@ -1,6 +1,7 @@
 # 第1期 kiitok bootcamp kickoff
 ## アジェンダ
 - 自己紹介
+- あだ名を決めて、Slackのアカウント表示名を変更
 - [Mission/Vision/Valueの説明](https://github.com/kiitok-bootcamp/document/blob/master/Mission_Vision_Value.md)
 - [bootcampで取り組む課題の説明](https://github.com/kiitok-bootcamp/document/blob/master/theme.md)
 - [ツール類の説明](https://github.com/kiitok-bootcamp/document/blob/master/tools.md)
